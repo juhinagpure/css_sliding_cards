@@ -92,13 +92,17 @@ input:checked + label .description {
 
 .card[for="c1"] {
   background-image: url("./1.jpeg");
+  background-position: center;
 }
 .card[for="c2"] {
   background-image: url("./2.jpeg");
+  background-position: center;
 }
 .card[for="c3"] {
   background-image: url("./3.jpeg");
+  background-position: center;
 }
 .card[for="c4"] {
   background-image: url("./4.jpeg");
+  background-position: center;
 }
